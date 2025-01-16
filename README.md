@@ -38,3 +38,6 @@ JavaScript: Core functionality for creating, editing, deleting, and saving notes
 
 
 
+![XsCFNrN - Imgur](https://github.com/user-attachments/assets/8451851f-cee2-4b21-82ba-38524989c103)
+
+
